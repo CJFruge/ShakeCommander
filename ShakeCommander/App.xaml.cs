@@ -2,6 +2,8 @@
 using Xamarin.Forms;
 using ShakeCommander.Views;
 using Xamarin.Forms.Xaml;
+using OpenCvSharp;
+using Plugin.Sensors;
 
 [assembly: XamlCompilation(XamlCompilationOptions.Compile)]
 namespace ShakeCommander
